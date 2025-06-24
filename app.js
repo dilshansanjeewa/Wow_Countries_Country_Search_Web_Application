@@ -13,7 +13,7 @@ function searchCountry(){
 
                flag.innerHTML = `
                     <h3 class="text-dark">Flag</h3>
-                    <img src="${element.flags.svg}" width="380px" style="border: 1px solid #000;" alt="">
+                    <img src="${element.flags.svg}" width="350px" style="border: 1px solid #000;" alt="">
                `
 
                coatOfArms.innerHTML = `
